@@ -1,5 +1,6 @@
 ---
 layout: page
+mathjax: true
 show_meta: false
 title: "Research"
 subheadline: "Research activities"
