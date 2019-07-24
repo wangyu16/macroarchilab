@@ -10,7 +10,7 @@ permalink: "/research/"
 
 ---
 
-$E=mc^2$
+$$E=mc^2$$
 
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
