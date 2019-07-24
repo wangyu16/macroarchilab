@@ -1,6 +1,7 @@
 ---
 permalink: /search/
 layout: page
+mathjax: true
 title: "Search"
 sitemap: false
 ---

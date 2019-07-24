@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+mathjax: true
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
