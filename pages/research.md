@@ -17,6 +17,8 @@ When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
 
   $$E=mc^2$$
 
+  $$\ce{H2O}$$
+
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
 1. Open `_data/socialmedia.yml` and add your own social media links.
