@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 mathjax: true
 show_meta: false
 title: "Research"
@@ -9,9 +9,55 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/research/"
 
+
 ---
 
 Atom transfer radical polymerization (ATRP) of methyl acrylate (MA) was carried out by continuous feeding of Cu(I) activators. Typically, the solvent, the monomer, the initiator, and the CuBr~2~/Me~6~TREN deactivator are placed in a Schlenk flask (Me~6~TREN: tris[2-(dimethylamino)ethyl]amine), while the CuBr/Me~6~TREN activator is placed in a gas-tight syringe and added to the reaction mixture at a constant addition rate by using a syringe pump. As expected, the polymerization started when Cu(I) was added and stopped when the addition was completed, and polymers with a narrow molecular weight distribution were obtained. The polymerization rate could be easily adjusted by changing the activator feeding rate. {More importantly, the loss of chain end-groups could be precisely predicted since each loss of Br from the chain end resulted in the irreversible oxidation of one Cu(I) to Cu(II). The Cu(I) added to the reaction system may undergo many oxidation/reduction cycles in ATRP equilibrium, but would finally be oxidized to Cu(II) irreversibly.} Thus, the loss of chain end-groups simply equals the total amount of Cu(I) added. This technique provides a neat way to synthesize functional polymers with known end-group fidelity. 
+
+<canvas id="myChart" width="400" height="400">
+<script>
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        datasets: [{
+            label: '# of Votes',
+            data: [12, 19, 3, 5, 2, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+});
+</script>
+</canvas>
+
+
+
 
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
