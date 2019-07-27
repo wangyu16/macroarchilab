@@ -260,7 +260,7 @@ $font-weight-bold: bold !default;
 // We use these to control various global styles
 $body-bg: #fff !default;
 $body-font-color: #222 !default;
-$body-font-family: $font-family-sans-serif !default;
+$body-font-family: $font-family-serif !default;
 $body-font-weight: $font-weight-normal !default;
 $body-font-style: normal !default;
 
@@ -410,7 +410,7 @@ $cursor-text-value: text !default;
     }
 
     html,
-    body { font-size: $base-font-size; }
+    body { font-size: font-size-p; }
 
     // Default body styles
     body {

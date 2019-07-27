@@ -19,7 +19,7 @@ widget2:
   title: "Advanced Macromolecular Architecture Design"
   url: ''
   text: 'Architecture design'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Applications"
   url: 'Application of polymers with precisely designed architectures'
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: 
+  text: Inform me about any questions of this website ›
   style: alert
 permalink: /index.html
 #
