@@ -38,7 +38,7 @@ improve_content: https://github.com/wangyu16/MacroArchiLab/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://wangyu16.github.io/MacroArchiLab/images/'
+urlimg: 'https://wangyu16.github.io/macroarchilab/images/'
 
 
 # Logo size is 600x80 pixels
@@ -64,7 +64,6 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
-mathjax            : true
 permalink          : /:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
@@ -159,18 +158,18 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-#favicon-32x32:                          'favicon-32x32.png'
-#touch-icon-192x192:                     'touch-icon-192x192.png'
-#apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-#apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-#apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-#apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-#apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-#apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-#apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-#apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-#msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-#msapplication_tilecolor:                '#fabb00'
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+msapplication_tilecolor:                '#fabb00'
 
 
 #       ______                __                __
