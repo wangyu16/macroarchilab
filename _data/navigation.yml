@@ -5,8 +5,24 @@
 - title: Research
   url: "/research/"
   side: left
+  dropdown:
+  - title: "Synthesis"
+    url: "/research/#Synth"
+  - title: "Architecture"
+    url: "/research/#Archi"
+  - title: "Applications"
+    url: "/research/#Appli"
 
-
+- title: Teaching
+  url: "/teaching/"
+  side: left
+  dropdown:
+  - title: "General Chemistry"
+    url: "/teaching/#GenChem"
+  - title: "Chemistry of Macromolecules"
+    url: "/teaching/#PolyChem"
+  - title: "Simulations"
+    url: "/teaching/#Simu"
 
 - title: Blog
   url: "/blog/"

@@ -14,13 +14,14 @@ permalink: "/research/"
 
 
 ---
-## Precise Polymer Synthesis <a name="Synth"></a> 
+
+## General Chemistry <a name="GenChem"></a> 
 
 
-## Advanced Architectures <a name="Archi"></a> 
+## Chemistry of Macromolecules <a name="PolyChem"></a> 
 
 
-## Applications <a name="Appli"></a> 
+## Simulations <a name="Simu"></a> 
 
 
 
