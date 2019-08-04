@@ -17,7 +17,7 @@ permalink: "/research/"
 ## Precise Polymer Synthesis <a name="Synth"></a> 
 
 
-## Advanced Architectures <a name="Archi"></a> 
+## Advanced Macromolecular Architectures Design<a name="Archi"></a> 
 
 
 ## Applications <a name="Appli"></a> 
