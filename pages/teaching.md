@@ -2,15 +2,15 @@
 layout: page-fullwidth
 mathjax: true
 show_meta: false
-title: "Research"
-subheadline: "Research activities"
-teaser: "Find research results here."
+title: "Teaching"
+subheadline: "Teaching activities"
+teaser: "Find teaching results here."
 header:
 #   title: "research"
 #   image_fullwidth: "header_homepage_13.jpg"
    background-color: "#dddddd"
 #   pattern: ""
-permalink: "/research/"
+permalink: "/teaching/"
 
 
 ---
