@@ -4,7 +4,7 @@ mathjax: true
 show_meta: false
 title: "Research"
 subheadline: "Research activities"
-teaser: "Find research results here."
+teaser: "Find my research results here."
 header:
 #   title: "research"
 #   image_fullwidth: "header_homepage_13.jpg"
@@ -14,6 +14,9 @@ permalink: "/research/"
 
 
 ---
+
+Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate)
+
 ## Precise Polymer Synthesis <a name="Synth"></a> 
 
 

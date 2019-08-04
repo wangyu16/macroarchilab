@@ -4,7 +4,7 @@ mathjax: true
 show_meta: false
 title: "Teaching"
 subheadline: "Teaching activities"
-teaser: "Find teaching results here."
+teaser: "Find my teaching materials here."
 header:
 #   title: "research"
 #   image_fullwidth: "header_homepage_13.jpg"
