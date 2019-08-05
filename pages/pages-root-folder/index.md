@@ -7,7 +7,8 @@
 layout: frontpage
 mathjax: true
 header:
-  image_fullwidth: earth.jpg
+  image_fullwidth: 
+    url: "https://unsplash.com/photos/IL526pUqQ1k"
 
   
 widget1:
@@ -53,9 +54,4 @@ homepage: true
 
 Precise polymer synthesis and the application of well-defined polymers. 
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+
