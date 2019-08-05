@@ -7,8 +7,7 @@
 layout: frontpage
 mathjax: true
 header:
-  image_fullwidth: 
-    url: "https://unsplash.com/photos/IL526pUqQ1k"
+  image_fullwidth: header-1.jpg
 
   
 widget1:
