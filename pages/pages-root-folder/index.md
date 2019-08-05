@@ -36,7 +36,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 
+  url: https://wangyu16.wufoo.com/forms/z13g8fsq1n9blpt/
   text: Inform me about any questions of this website 
   style: alert
 permalink: /index.html
