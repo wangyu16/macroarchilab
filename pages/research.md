@@ -7,8 +7,8 @@ subheadline: "Research activities"
 teaser: "Find my research results here."
 header:
 #   title: "research"
-#   image_fullwidth: "header_homepage_13.jpg"
-   background-color: "#dddddd"
+   image_fullwidth: "header-7"
+#   background-color: "#dddddd"
 #   pattern: ""
 permalink: "/research/"
 

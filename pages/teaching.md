@@ -7,8 +7,8 @@ subheadline: "Teaching activities"
 teaser: "Find my teaching materials here."
 header:
 #   title: "research"
-#   image_fullwidth: "header_homepage_13.jpg"
-   background-color: "#dddddd"
+   image_fullwidth: "header-6.jpg"
+#   background-color: "#dddddd"
 #   pattern: ""
 permalink: "/teaching/"
 
