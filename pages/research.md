@@ -7,15 +7,15 @@ subheadline: "Research activities"
 teaser: "Find my research results here."
 header:
 #   title: "research"
-#   image_fullwidth: "header_homepage_13.jpg"
-   background-color: "#dddddd"
+   image_fullwidth: header-7.JPG
+#   background-color: "#dddddd"
 #   pattern: ""
-permalink: "/research/"
+permalink: /research/
 
 
 ---
 
-Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate)
+Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}
 
 ## Precise Polymer Synthesis <a name="Synth"></a> 
 

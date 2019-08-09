@@ -12,19 +12,19 @@ header:
   
 widget1:
   title: "Precise Polymer Synthesis"
-  url: ''
-  image: widget-1-302x182.jpg
+  url: "/research/#Synth"
+  image: widget-1.jpg
   text: 'Precise polymer synthesis'
 widget2:
-  title: "Advanced Macromolecular Architecture Design"
-  url: ''
+  title: "Advanced Architecture Design"
+  url: "/research/#Archi"
   text: 'Architecture design'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: widget-2.jpg
 widget3:
   title: "Applications"
-  url: 'Application of polymers with precisely designed architectures'
-  image: widget-github-303x182.jpg
-  text: '<applications'
+  url: "/research/#Appli"
+  image: widget-3.jpg
+  text: 'Applications'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 
-  text: Inform me about any questions of this website ›
+  url: https://wangyu16.wufoo.com/forms/z13g8fsq1n9blpt/
+  text: Inform me about any questions of this website 
   style: alert
 permalink: /index.html
 #
