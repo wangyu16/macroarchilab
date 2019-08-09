@@ -47,7 +47,7 @@ permalink: /index.html
 homepage: true
 ---
 
-# Macromolecular Architecture Design
+> Quote
 
 ## Research Interests
 
