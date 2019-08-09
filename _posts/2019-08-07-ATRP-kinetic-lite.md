@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "ATRP Kinetic Simulator Lite"
-title: "ATRP Kinetic Simulator Lite Version"
+title: "Jupyter Notebook ATRP Kinetic Simulator Lite Version"
 teaser: "This program runs in Jupyter notebook, provides fast kinetic simulation for conventional radical polymerization and different types of ATRP. The output includes concentration changes of all species but no molecular weight distribution information is provided."
 categories:
   - simulation
