@@ -20,7 +20,7 @@ header: no
 image:
     title: ATRP_Kinetic_Simulator_Lite.svg
     thumb: ATRP_Kinetic_Simulator_Lite.svg
-    homepage: ATRP_Kinetic_Simulator_Lite.svg
+    homepage: 
     caption: ATRP Kinetic Simulator Lite Version
     caption_url: https://github.com/wangyu16/PolymerScienceEducation
 

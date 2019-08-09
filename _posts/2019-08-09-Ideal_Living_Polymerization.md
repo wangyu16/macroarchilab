@@ -19,7 +19,7 @@ header: no
 image:
     title: Living_polymerization_animation.gif
     thumb: Living_polymerization_animation.gif
-    homepage: Living_polymerization_animation.gif
+    homepage: 
     caption: Living Polymerization
     caption_url: https://github.com/wangyu16/PolymerScienceEducation
 
