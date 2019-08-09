@@ -46,8 +46,9 @@ permalink: /index.html
 #
 homepage: true
 ---
+<br>
 
-> Quote
+> Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  &#8212 **Hebrews 13:2**
 
 ## Research Interests
 
