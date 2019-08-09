@@ -13,7 +13,7 @@ header:
 widget1:
   title: "Precise Polymer Synthesis"
   url: "/research/#Synth"
-  image: widget-1.jpg
+  image: Retention_of_Chain_End_Functionality_in_RDRP.svg
   text: 'Precise polymer synthesis'
 widget2:
   title: "Advanced Architecture Design"
