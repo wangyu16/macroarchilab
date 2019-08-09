@@ -17,13 +17,18 @@ permalink: /research/
 
 Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}
 
-## Precise Polymer Synthesis <a name="Synth"></a> 
+## Precise Polymer Synthesis {#Synth}
+
+### Limit the End-Group Loss in RDRP
+
+<img src="{{ site.urlimg }}Retention_of_Chain_End_Functionality_in_RDRP.svg" alt="Retention of Chain End Functionality">
+
+### New Polymerization Methods
+
+## Advanced Macromolecular Architectures Design {#Archi}
 
 
-## Advanced Macromolecular Architectures Design<a name="Archi"></a> 
-
-
-## Applications <a name="Appli"></a> 
+## Applications {#Appli}
 
 
 
