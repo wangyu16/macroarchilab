@@ -45,6 +45,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+sidebar: right 
 ---
 <br>
 
