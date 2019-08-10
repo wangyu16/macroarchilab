@@ -11,7 +11,6 @@ header:
 #   background-color: "#dddddd"
 #   pattern: ""
 permalink: /teaching/
-sidebar: right
 
 ---
 
