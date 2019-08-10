@@ -11,8 +11,6 @@ header:
 #   background-color: "#dddddd"
 #   pattern: ""
 permalink: /research/
-
-
 ---
 
 <div class="row">
@@ -25,17 +23,9 @@ Table of Contents
 </div>
 </div><!-- /.medium-4.columns -->
 
-
-
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-
-
-
-
 Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}
-
-
 
 -------------
 
@@ -44,6 +34,8 @@ Full list of my publications: [Google scholar](https://scholar.google.com/citati
 ### Limit the End-Group Loss in RDRP
 
 <img src="{{ site.urlimg }}Retention_of_Chain_End_Functionality_in_RDRP.svg" alt="Retention of Chain End Functionality">
+
+In RDRP the loss of end-group results in ill structured polymers
 
 ### New Polymerization Methods
 
