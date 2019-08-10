@@ -17,7 +17,7 @@ permalink: /teaching/
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-Table of Content
+Table of Contents
 {: #toc }
 *  TOC
 {:toc}
@@ -29,10 +29,7 @@ Table of Content
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
+--------------------------
 
 ## General Chemistry {#GenChem}
 
@@ -74,6 +71,11 @@ Additional resources could be found here: [https://chem.libretexts.org/Bookshelv
 --------------
 
 ## Simulations {#Simu}
+
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
 
 
 

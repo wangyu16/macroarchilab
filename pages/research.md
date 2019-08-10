@@ -18,7 +18,7 @@ permalink: /research/
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-Table of Content
+Table of Contents
 {: #toc }
 *  TOC
 {:toc}
@@ -31,13 +31,13 @@ Table of Content
 
 
 
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+
 
 
 Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}
 
 
+-------------
 
 ## Precise Polymer Synthesis {#Synth}
 
@@ -58,5 +58,6 @@ Full list of my publications: [Google scholar](https://scholar.google.com/citati
 
 
 
-
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
