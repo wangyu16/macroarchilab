@@ -14,9 +14,7 @@ permalink: /teaching/
 
 ---
 
-----------------------
-
-<div class="row" style="float: right;">
+<div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 Table of Content
@@ -35,6 +33,7 @@ Table of Content
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
+---------------
 
 ## General Chemistry {#GenChem}
 
