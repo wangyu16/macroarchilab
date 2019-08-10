@@ -17,7 +17,7 @@ permalink: /teaching/
 
 ----------------------
 
-## General Chemistry <a name="GenChem"></a> 
+## General Chemistry {#GenChem}
 
 Study guide for general chemistry. 
 [https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
@@ -49,11 +49,14 @@ Additional resources could be found here: [https://chem.libretexts.org/Bookshelv
 1. [Redox Reactions and Electrochemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2019.%20Redox%20Reactions%20and%20Electrochemistry.ipynb){:target="_blank" rel="noopener"}
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
 
+-------------
 
-## Chemistry of Macromolecules <a name="PolyChem"></a> 
+## Chemistry of Macromolecules {#PolyChem}
 
 
-## Simulations <a name="Simu"></a> 
+--------------
+
+## Simulations {#Simu}
 
 
 

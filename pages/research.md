@@ -27,8 +27,12 @@ Full list of my publications: [Google scholar](https://scholar.google.com/citati
 
 ### New Polymerization Methods
 
+------------------
+
 ## Advanced Macromolecular Architectures Design {#Archi}
 
+
+------------
 
 ## Applications {#Appli}
 
