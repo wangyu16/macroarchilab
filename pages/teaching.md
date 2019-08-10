@@ -33,7 +33,6 @@ Table of Content
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
----------------
 
 ## General Chemistry {#GenChem}
 
