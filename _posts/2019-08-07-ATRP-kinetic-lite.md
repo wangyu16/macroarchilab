@@ -37,9 +37,14 @@ mathjax: true
 
 ## Examples
 
-* Reactions in atom transfer radical polymerization
-*; Initiation
+Reactions in atom transfer radical polymerization
+
+Initiation
+
 ![ATRP](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d22caa49b8487dcf7c567e3a374e6eda1eb8269)
-*; Quasi-steady state
+
+Quasi-steady state
+
 ![ATRP](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d22caa49b8487dcf7c567e3a374e6eda1eb8269)
-* Other chain breaking reactions ($k_{tx}$) should also be considered.
+
+Other chain breaking reactions ($k_{tx}$) should also be considered.
