@@ -19,10 +19,10 @@ Full list of my publications: [Google scholar](https://scholar.google.com/citati
 
 ----------------
 
-<div class="row">
+<div class="row" style="float: right;">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-Inhalt
+Table of Content
 {: #toc }
 *  TOC
 {:toc}
