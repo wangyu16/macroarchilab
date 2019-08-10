@@ -7,7 +7,7 @@
 layout: frontpage
 mathjax: true
 header:
-  image_fullwidth: header-12.JPG
+  image_fullwidth: header-11.JPG
 
   
 widget1:
@@ -48,7 +48,7 @@ homepage: true
 ---
 <br>
 
-> Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  &#8212 **Hebrews 13:2**
+> Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  - **Hebrews 13:2**
 
 ## Research Interests
 
