@@ -15,6 +15,8 @@ permalink: /teaching/
 
 ---
 
+----------------------
+
 ## General Chemistry <a name="GenChem"></a> 
 
 Study guide for general chemistry. 
