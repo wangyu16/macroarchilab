@@ -4,7 +4,7 @@ mathjax: true
 show_meta: false
 title: "Research"
 subheadline: "Research activities"
-teaser: "Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}"
+teaser: "Research results here"
 header:
 #   title: "research"
    image_fullwidth: header-9.png
@@ -33,7 +33,7 @@ Table of Contents
 
 
 
-
+Full list of my publications: [Google scholar](https://scholar.google.com/citations?hl=en&user=nmVsjxkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"}
 
 
 
