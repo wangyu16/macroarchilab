@@ -33,7 +33,7 @@ Though the term "living" radical polymerization was used in early days, it has b
 
 ## Mechanisms of RDRP
 
-![Types of RDRP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Three_types_of_mechanisms_of_RDRP.svg/1024px-Three_types_of_mechanisms_of_RDRP.svg.png)
+![Types of RDRP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Three_types_of_mechanisms_of_RDRP.svg)
 
 ## Examples of RDRP
 
