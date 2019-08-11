@@ -36,7 +36,7 @@ Though the term "living" radical polymerization was used in early days, it has b
 
 ![ATRP Mechanisms](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d22caa49b8487dcf7c567e3a374e6eda1eb8269)
 
-![TRP Mechanisms](https://wikimedia.org/api/rest_v1/media/math/render/svg/615dea9d96bca416108edf3e7cc335612c6a84ad])
+![ATRP Mechanisms](https://wikimedia.org/api/rest_v1/media/math/render/svg/615dea9d96bca416108edf3e7cc335612c6a84ad)
 
 ## Activator Regeneration ATRP
 
