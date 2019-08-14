@@ -18,9 +18,9 @@ tags:
 #
 header: no
 image:
-    title: ATRP_Basics.svg
-    thumb: ATRP_Basics.svg
-#    homepage: 
+    title: ATRP_Basics.png
+    thumb: ATRP_Basics.png
+    homepage: ATRP_Basics.png
     caption: ATRP Basics
 #    caption_url: https://www.mdpi.com/2073-4360/11/8/1238/htm
 
