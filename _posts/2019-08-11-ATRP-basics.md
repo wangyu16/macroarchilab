@@ -17,11 +17,11 @@ tags:
 # Styling
 #
 header: no
-#image:
-#    title: TOC_ATRP_CFA.svg
-#    thumb: TOC_ATRP_CFA.svg
-#    homepage: TOC_ATRP_CFA.svg
-#    caption: ATRP by continuous feeding of activators
+image:
+    title: ATRP_Basics.svg
+    thumb: ATRP_Basics.svg
+#    homepage: 
+    caption: ATRP Basics
 #    caption_url: https://www.mdpi.com/2073-4360/11/8/1238/htm
 
 ---
