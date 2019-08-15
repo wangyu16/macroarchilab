@@ -52,6 +52,6 @@ homepage: true
 
 ## Research Interests
 
-Precise polymer synthesis and the application of well-defined polymers. 
+My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via controlled/living polymerization methods; and the study of applications of polymeric materials with well-defined structures in organic electronics, batteries, nanodiagnostics, and therapeutics, stimuli-responsive materials, etc. 
 
 
