@@ -24,6 +24,7 @@ image:
     caption: ATRP Kinetic Simulator Lite Version
     caption_url: https://github.com/wangyu16/PolymerScienceEducation
 mathjax: true
+comments: true
 ---
 
 ## To Start

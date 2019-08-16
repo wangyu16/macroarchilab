@@ -22,7 +22,8 @@ header: no
 #    homepage: TOC_ATRP_CFA.svg
 #    caption: ATRP by continuous feeding of activators
 #    caption_url: https://www.mdpi.com/2073-4360/11/8/1238/htm
-
+comments: true
+mathjax: true
 ---
 
 

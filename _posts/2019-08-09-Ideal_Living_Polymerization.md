@@ -22,7 +22,8 @@ image:
     homepage: 
     caption: Living Polymerization
     caption_url: https://github.com/wangyu16/PolymerScienceEducation
-
+comments: true
+mathjax: true
 ---
 
 

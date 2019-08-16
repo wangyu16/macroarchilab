@@ -23,7 +23,8 @@ image:
     homepage: 
     caption: ATRP Kinetic Simulator Full Version
     caption_url: https://github.com/wangyu16/PolymerScienceEducation
-
+comments: true
+mathjax: true
 ---
 
 
