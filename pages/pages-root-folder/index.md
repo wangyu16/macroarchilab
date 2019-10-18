@@ -7,7 +7,7 @@
 layout: frontpage
 mathjax: true
 header:
-  image_fullwidth: header-11.JPG
+  image_fullwidth: header-14.JPG
 
   
 widget1:
