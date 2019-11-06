@@ -19,9 +19,9 @@ tags:
 header: 
    image_fullwidth: header-13.svg
 image:
-    title: ATRP_Basics.png
-    thumb: ATRP_Basics.png
-    homepage: ATRP_Basics.png
+    title: ATRP_Basics.svg
+    thumb: ATRP_Basics.svg
+    homepage: ATRP_Basics.svg
     caption: ATRP Basics
 #    caption_url: https://www.mdpi.com/2073-4360/11/8/1238/htm
 comments: true
