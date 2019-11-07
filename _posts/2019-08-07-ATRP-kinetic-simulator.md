@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "ATRP Kinetic Simulator"
 title: "Jupyter Notebook ATRP Kinetic Simulator Moments"
-teaser: "This program runs in Jupyter notebook, provides fast kinetic simulation for conventional radical polymerization and different types of ATRP. The output includes concentration changes of all species and the molecular weight distribution."
+teaser: "This program runs in Jupyter notebook, provides fast kinetic simulation for conventional radical polymerization and different types of ATRP. The output includes concentration changes of all species and the weight & number average molecular weights."
 categories:
   - simulation
 tags:
