@@ -16,8 +16,7 @@ tags:
 #
 # Styling
 #
-header: 
-   image_fullwidth: header-13.svg
+header: no
 image:
     title: ATRP_Basics.svg
     thumb: ATRP_Basics.svg
