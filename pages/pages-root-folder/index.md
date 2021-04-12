@@ -54,6 +54,6 @@ homepage: true
 
 My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via controlled/living polymerization methods; and the study of applications of polymeric materials with well-defined structures in organic electronics, batteries, nanodiagnostics, and therapeutics, stimuli-responsive materials, etc.
 
-<a class="twitter-timeline" data-theme="light" href="https://twitter.com/YuWang95913822?ref_src=twsrc%5Etfw">Tweets by YuWang95913822</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-theme="light" href="https://twitter.com/YuWang95913822?ref_src=twsrc%5Etfw">Tweets by YuWang95913822</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
