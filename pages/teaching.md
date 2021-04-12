@@ -72,6 +72,7 @@ Additional resources could be found here: [https://chem.libretexts.org/Bookshelv
 
 ## Simulations {#Simu}
 
+<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz"  target="_blank"><img src="{{ site.urlimg }}ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="300"></a>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
