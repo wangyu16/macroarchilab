@@ -56,7 +56,7 @@ Study guide for general chemistry.
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
 
 For more information about this study guide please visit the following website.
-[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
+[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/){:target="_blank" rel="noopener"}
 
 -------------
 
