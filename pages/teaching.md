@@ -34,14 +34,6 @@ Table of Contents
 ## General Chemistry {#GenChem}
 
 Study guide for general chemistry. 
-[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
-
-Potential textbooks:
-* [Chemistry 23, an OpenStax resource.](https://openstax.org/details/books/chemistry-2e)
-* General Chemistry, The Essential Concepts, 7th ed., by Chang and Goldsby. 
-* Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
-
-Additional resources could be found here: [https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). The outline follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
 
 1. [Introduction](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2001.%20Introduction.ipynb){:target="_blank" rel="noopener"}
 1. [Atoms, Molecules and Ions](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2002.%20Atoms%2C%20Molecules%20and%20Ions.ipynb){:target="_blank" rel="noopener"}
@@ -62,6 +54,9 @@ Additional resources could be found here: [https://chem.libretexts.org/Bookshelv
 1. [Thermodynamics](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2018%20Thermodynamics.ipynb){:target="_blank" rel="noopener"}
 1. [Redox Reactions and Electrochemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2019.%20Redox%20Reactions%20and%20Electrochemistry.ipynb){:target="_blank" rel="noopener"}
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
+
+For more information about this study guide please visit the following website.
+[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
 
 -------------
 
