@@ -67,7 +67,8 @@ For more information about this study guide please visit the following website.
 
 ## Simulations {#Simu}
 
-<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz"  target="_blank"><img src="{{ site.urlimg }}ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="300"></a>
+1. An online ATRP kinetic simulator. Do not need to download or install anything to your computer. Click on the image below, then edit and run the simulation directly in the web page. 
+<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz"  target="_blank"><img src="{{ site.urlimg }}ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="400"></a>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
