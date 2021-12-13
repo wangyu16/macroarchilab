@@ -16,15 +16,15 @@ widget1:
   image: Retention_of_Chain_End_Functionality_in_RDRP.svg
   text: 'Precise polymer synthesis'
 widget2:
-  title: "Advanced Architecture Design"
+  title: "Advanced Functional Materials"
   url: "/research/#Archi"
-  text: 'Architecture design'
+  text: 'Functional Materials'
   image: widget-2.jpg
 widget3:
-  title: "Applications"
+  title: "Polymer Science Education"
   url: "/research/#Appli"
   image: widget-3.jpg
-  text: 'Applications'
+  text: 'Polymer Science Education'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,11 +35,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://wangyu16.wufoo.com/forms/z13g8fsq1n9blpt/
-  text: Inform me about any questions of this website 
-  style: alert
-permalink: /index.html
+# callforaction:
+#  url: https://wangyu16.wufoo.com/forms/z13g8fsq1n9blpt/
+#  text: Inform me about any questions of this website 
+#  style: alert
+# permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -48,12 +48,17 @@ homepage: true
 ---
 <br>
 
-> Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  <cite>Hebrews 13:2</cite>
-
 ## Research Interests
 
 My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, nanodiagnostics and therapeutics, stimuli-responsive materials, etc.
 
+## Sponsored Projects
+Improving inductive reasoning in polymer science education through open virtual experiment simulator education tools (OVESET), NSF IUSE, NSF-2142043.
 
+Modular Reactors for the Capture and Electro-conversion of \ce{CO2} in Various Industrial Processes to Value-Added Chemicals, DOE EERE, DE-EE0009421.
+
+High-Efficiency Electrochemical Conversion of \ce{CO2} to Ethylene, DOE NETL, DE-FE0031919.
+
+Controlled Polymer Synthesis Towards the Precision of Biomacromolecules, Board of Regents of the State of Louisiana Research Competitiveness Subprogram, LEQSF(2017-20)-RD-A-23
 
 
