@@ -192,7 +192,7 @@ msapplication_tilecolor:                '#fabb00'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-#socialmedia:
+socialmedia:
     twitter: YuWang95913822
     #facebook: 
 
