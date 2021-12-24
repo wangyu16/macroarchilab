@@ -1,4 +1,4 @@
-I"—<div class="row">
+I"„<div class="row">
 <div class="medium-4 medium-push-8 columns">
     <div class="panel radius">
       <p id="toc">Table of Contents</p>
@@ -32,7 +32,7 @@
 
     <ol>
       <li>An online ATRP kinetic simulator. Do not need to download or install anything to your computer. Click on the image below, then edit and run the simulation directly in the web page. 
-<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz" target="_blank"><img src="https://wangyu16.github.io/macroarchilab/images/ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="400" /></a></li>
+<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz" target="_blank"><img src="http://localhost:4000/images/ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="400" /></a></li>
     </ol>
 
   </div><!-- /.medium-8.columns -->
