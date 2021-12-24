@@ -46,13 +46,13 @@ widget3:
 #
 homepage: true 
 ---
-<br>
 
 ## Research Interests
 
 My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, nanodiagnostics and therapeutics, stimuli-responsive materials, etc.  
 
 ## Sponsored Projects
+
 Improving inductive reasoning in polymer science education through open virtual experiment simulator education tools (OVESET), NSF IUSE, NSF-2142043.  
 
 Modular Reactors for the Capture and Electro-conversion of \ce{CO2} in Various Industrial Processes to Value-Added Chemicals, DOE EERE, DE-EE0009421.  
@@ -60,5 +60,3 @@ Modular Reactors for the Capture and Electro-conversion of \ce{CO2} in Various I
 High-Efficiency Electrochemical Conversion of \ce{CO2} to Ethylene, DOE NETL, DE-FE0031919.  
 
 Controlled Polymer Synthesis Towards the Precision of Biomacromolecules, Board of Regents of the State of Louisiana Research Competitiveness Subprogram, LEQSF(2017-20)-RD-A-23.  
-
-
