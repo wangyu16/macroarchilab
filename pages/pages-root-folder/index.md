@@ -54,17 +54,16 @@ My research focuses on pursuing more efficient synthetic methods and achieving h
 
 ## Sponsored Projects
 
-- 07/01/2022 – 06/30//2025 Improving inductive reasoning in polymer science education through open virtual experiment simulator education tools (OVESET), NSF IUSE, NSF-2142043.
-- 06/01/2021 – 05/31/2024 Modular Reactors for the Capture and Electro-conversion of CO2 in Various Industrial Processes to Value-Added Chemicals, DOE EERE, DE-EE0009421.
-- 09/01/2020 – 08/31/2022 High-Efficiency Electrochemical Conversion of CO2 to Ethylene, DOE NETL, DE-FE0031919.
-- 06/01/2017 – 06/30/2020 Controlled Polymer Synthesis Towards the Precision of Biomacromolecules, Board of Regents of the State of Louisiana Research Competitiveness Subprogram, LEQSF(2017-20)-RD-A-23.
+- 07/2022 – 06/2025 Improving inductive reasoning in polymer science education through open virtual experiment simulator education tools (OVESET), NSF IUSE, NSF-2142043.
+- 06/2021 – 05/2024 Modular Reactors for the Capture and Electro-conversion of $\ce{CO2}$ in Various Industrial Processes to Value-Added Chemicals, DOE EERE, DE-EE0009421.
+- 09/2020 – 08/2022 High-Efficiency Electrochemical Conversion of $\ce{CO2}$ to Ethylene, DOE NETL, DE-FE0031919.
+- 06/2017 – 06/2020 Controlled Polymer Synthesis Towards the Precision of Biomacromolecules, Board of Regents of the State of Louisiana Research Competitiveness Subprogram, LEQSF(2017-20)-RD-A-23.
 
 ## Available Positions
 
 Ph.D. and postdoc researcher positions are available according to available fundings and will be updated from time to time. Studnets with organic or polymer synthesis experiences are appreciated. If you are intesested, please contact Dr. Yu Wang directly via email. 
 
-|  | Number | Expected starting date|
---------------------------------------------------
-|Ph.D. student| 1 | Aug. 2022|
-|Postdoc| - | - |
- 
+|               | Number | Expected starting date |
+|---------------|--------|------------------------|
+| Ph.D. student | 1      | Aug. 2022              |
+| Postdoc       | -      | -                      |
