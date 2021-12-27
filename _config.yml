@@ -124,26 +124,6 @@ defaults:
       author: Yu Wang     # Default author for posts
 
 
-defaults:
-  -
-    scope:
-      path: ''        # an empty string here means all files in the project
-      type: 'pages'
-    values:
-      layout: page      # Set default layout to page
-      show_meta: false  # Hide metadata for all pages
-      comments: false
-      author: 'Yu Wang'     # Default author for pages
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-      layout: page      # Set default layout to page
-      show_meta: true   # Show metadata for all posts
-      comments: false
-      author: 'Yu Wang'     # Default author for posts
-
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
@@ -214,7 +194,7 @@ msapplication_tilecolor:                '#fabb00'
 
 socialmedia:
     twitter: YuWang95913822
-    #facebook: 
+    facebook: 
 
 
 #        ____  _
