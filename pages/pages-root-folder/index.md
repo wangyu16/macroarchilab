@@ -39,7 +39,8 @@ widget3:
 #  url: https://wangyu16.wufoo.com/forms/z13g8fsq1n9blpt/
 #  text: Inform me about any questions of this website 
 #  style: alert
-# permalink: /index.html
+
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
