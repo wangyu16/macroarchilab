@@ -110,7 +110,7 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      sidebar: false   		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Yu Wang     # Default author for pages
   -
@@ -119,10 +119,30 @@ defaults:
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      sidebar: false       # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Yu Wang     # Default author for posts
 
+
+defaults:
+  -
+    scope:
+      path: ''        # an empty string here means all files in the project
+      type: 'pages'
+    values:
+      layout: page      # Set default layout to page
+      show_meta: false  # Hide metadata for all pages
+      comments: false
+      author: 'Yu Wang'     # Default author for pages
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: page      # Set default layout to page
+      show_meta: true   # Show metadata for all posts
+      comments: false
+      author: 'Yu Wang'     # Default author for posts
 
 
 #       _   __            _             __  _
