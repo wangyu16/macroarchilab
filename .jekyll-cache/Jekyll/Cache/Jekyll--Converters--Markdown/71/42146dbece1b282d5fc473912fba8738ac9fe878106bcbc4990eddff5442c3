@@ -1,4 +1,4 @@
-I"‡<div class="row">
+I"t<div class="row">
 <div class="medium-4 medium-push-8 columns">
     <div class="panel radius">
       <p id="toc">Table of Contents</p>
@@ -25,7 +25,7 @@
 
     <h3 id="limit-the-end-group-loss-in-rdrp">Limit the End-Group Loss in RDRP</h3>
 
-    <p><img src="https://wangyu16.github.io/macroarchilab/images/Retention_of_Chain_End_Functionality_in_RDRP.svg" alt="Retention of Chain End Functionality" /></p>
+    <p><img src="http://localhost:4000/images/Retention_of_Chain_End_Functionality_in_RDRP.svg" alt="Retention of Chain End Functionality" /></p>
 
     <p>In RDRP the loss of end-group results in ill structured polymers</p>
 
