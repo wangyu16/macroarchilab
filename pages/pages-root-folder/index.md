@@ -10,21 +10,21 @@ header:
   image_fullwidth: header-ULL-6.jpg
 
   
-widget1:
-  title: "Precise Polymer Synthesis"
-  url: "/research/#Synth"
-  image: Retention_of_Chain_End_Functionality_in_RDRP.svg
-  text: 'Precise polymer synthesis'
-widget2:
-  title: "Advanced Functional Materials"
-  url: "/research/#Archi"
-  text: 'Functional Materials'
-  image: widget-2.jpg
-widget3:
-  title: "Teaching and Outreach"
-  url: "/research/#Appli"
-  image: widget-3.jpg
-  text: 'Polymer Science Education'
+# widget1:
+#   title: "Precise Polymer Synthesis"
+#   url: "/research/#Synth"
+#   image: Retention_of_Chain_End_Functionality_in_RDRP.svg
+#   text: 'Precise polymer synthesis'
+# widget2:
+#   title: "Advanced Functional Materials"
+#   url: "/research/#Archi"
+#   text: 'Functional Materials'
+#   image: widget-2.jpg
+# widget3:
+#   title: "Teaching and Outreach"
+#   url: "/research/#Appli"
+#   image: widget-3.jpg
+#   text: 'Polymer Science Education'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -50,7 +50,7 @@ homepage: true
 
 ## Research Interests
 
-My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, nanodiagnostics and therapeutics, stimuli-responsive materials, etc.  
+My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, detection and removal of harmful chemicals from the environment, stimuli-responsive materials, etc.  
 
 ## Sponsored Projects
 
@@ -59,11 +59,4 @@ My research focuses on pursuing more efficient synthetic methods and achieving h
 - 09/2020 – 08/2022 High-Efficiency Electrochemical Conversion of $\ce{CO2}$ to Ethylene, DOE NETL, DE-FE0031919.
 - 06/2017 – 06/2020 Controlled Polymer Synthesis Towards the Precision of Biomacromolecules, Board of Regents of the State of Louisiana Research Competitiveness Subprogram, LEQSF(2017-20)-RD-A-23.
 
-## Available Positions
 
-Ph.D. and postdoc researcher positions are available according to available fundings and will be updated from time to time. Students with organic or polymer synthesis experiences are appreciated. If you are intesested, please contact Dr. Yu Wang directly via email. 
-
-|               | Number | Expected starting date |
-|---------------|--------|------------------------|
-| Ph.D. student | 1      | Aug. 2022              |
-| Postdoc       | -      | -                      |
