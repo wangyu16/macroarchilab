@@ -10,7 +10,7 @@ permalink: "/contact/"
 ---
 
 Yu Wang, Ph. D.  
-Assistant Professor  
+Associate Professor  
 Department of Chemistry  
 University of Louisiana at Lafayette  
 Address: 300 E St Mary Blvd. Montgomery Hall Rm. 130, Lafayette, LA 70504  
