@@ -50,7 +50,7 @@ homepage: true
 
 ## Research Interests
 
-My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, detection and removal of harmful chemicals from the environment, stimuli-responsive materials, etc.  
+My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, detection of chemicals at low concentrations and removal of harmful chemicals from the environment, etc.  
 
 ## Sponsored Projects
 

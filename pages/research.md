@@ -29,26 +29,14 @@ Full list of my publications: [Google scholar](https://scholar.google.com/citati
 
 -------------
 
-## Precise Polymer Synthesis {#Synth}
-
-### Limit the End-Group Loss in RDRP
-
-<img src="{{ site.urlimg }}Retention_of_Chain_End_Functionality_in_RDRP.svg" alt="Retention of Chain End Functionality">
-
-In RDRP the loss of end-group results in ill structured polymers
-
-### New Polymerization Methods
-
-------------------
-
-## Advanced Macromolecular Architectures Design {#Archi}
+## Ion exchange membranes for clean energy systems
 
 
-------------
+## Detectors and sorbents
 
-## Applications {#Appli}
+## Mesoporous carbon as electrode materials
 
-
+## Polymerization methods
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

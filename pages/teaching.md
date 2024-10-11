@@ -31,22 +31,14 @@ Table of Contents
 
 --------------------------
 
-## General Chemistry {#GenChem}
-
-Please visit the following website.
-[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/){:target="_blank" rel="noopener"}
-
--------------
-
 ## Chemistry of Macromolecules {#PolyChem}
 
+[Study Guide](https://hackmd.io/@YW2025/HJLiqoHRR) 
 
---------------
 
-## Simulations {#Simu}
+[OVESET: a series of simulation tools for polymer science education.](https://wangyu16.quarto.pub/oveset/)
 
-1. An online ATRP kinetic simulator. Do not need to download or install anything to your computer. Click on the image below, then edit and run the simulation directly in the web page. 
-<a href="https://colab.research.google.com/github/wangyu16/PolymerScienceEducation/blob/master/ATRP_Kinetic_Simulator_Moments.ipynb#scrollTo=j3yPYyroK6Hz"  target="_blank"><img src="{{ site.urlimg }}ATRP_Kinetic_Simulator.svg" alt="ATRP Kinetic Simulator" width="400"></a>
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
