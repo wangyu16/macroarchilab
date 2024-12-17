@@ -113,15 +113,7 @@ defaults:
       sidebar: false   		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Yu Wang     # Default author for pages
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-      show_meta: true   # Show metadata for all posts
-      sidebar: false       # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: Yu Wang     # Default author for posts
+  
 
 
 
@@ -218,7 +210,7 @@ disqus_shortname: macroarchilab
 
 sass:
     sass_dir : _sass
-    style    : :compressed
+    style    : compressed
 
 
 #       ___                __      __  _

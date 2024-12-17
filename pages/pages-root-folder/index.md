@@ -50,7 +50,15 @@ homepage: true
 
 ## Research Interests
 
-My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods; and the study of applications of polymeric materials with well-defined structures in energy conversion and storage devices, detection of chemicals at low concentrations and removal of harmful chemicals from the environment, etc.  
+My research focuses on:
+
+- Pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via novel polymerization methods;
+- Study of polymeric materials with well-defined structures for highly efficient recognition/detection, adsorption, and selective conduction, etc. Those include
+  - Ion exchange membranes for energy conversion and storage devices; 
+  - Porous carbon for electrode materials in Na ion batteries;
+  - Electrochemical sensors;
+  - Detection and removal of PFAS from the environment, etc.
+- Developing educational tools for polymer science education.
 
 ## Sponsored Projects
 

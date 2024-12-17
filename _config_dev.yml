@@ -24,3 +24,6 @@ sass:
 
 # Disable when not in production
 google_analytics_tracking_id: false
+
+# Run the following code in terminal to preview
+# bundle exec jekyll serve --baseurl=""
