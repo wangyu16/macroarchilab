@@ -10,3 +10,13 @@
   class: "network-link"
   title: "Department of Chemistry at UL Lafayette"
 
+- name: "UL Lafayette"
+  url: "https://louisiana.edu/"
+  class: "network-link"
+  title: "UL Lafayette"
+
+- name: "OVESET" 
+  url: "https://wangyu16.github.io/PolymerScienceEducation/"
+  class: "network-link"
+  title: "OVESET"
+
